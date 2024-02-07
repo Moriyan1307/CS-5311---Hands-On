@@ -72,3 +72,14 @@ int main() {
 
     return 0;
 }
+
+
+// Output
+
+// Aaryan@Aaryans-MacBook-Pro Hands On 3 % cd "/Users/Aaryan/Desktop/CSE5311/Hands On 3/" && g++ m
+// ergeSort.cpp -o mergeSort && "/Users/Aaryan/Desktop/CSE5311/Hands On 3/"mergeSort
+// Original array:
+// 5 2 4 7 1 3 2 6 
+
+// Sorted array:
+// 1 2 2 3 4 5 6 7 
