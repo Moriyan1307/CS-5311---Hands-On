@@ -125,7 +125,7 @@ int main() {
 
 
 // This code is written on C++11 Extension please use following command to run it 
-// g++ -o main heap.cpp -std=c++17 && ./heap
+// g++ -o heap heap.cpp -std=c++17 && ./heap
 
 // OUTPUT
 
