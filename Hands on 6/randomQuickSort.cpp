@@ -10,7 +10,7 @@ using namespace std;
 
 int partition(vector<int>& arr, int low, int high) {
     int pivot = arr[high]; // pivot
-    sout(pivot)
+  
     int i = (low - 1); // Index of smaller element
 
     for (int j = low; j <= high - 1; j++) {
@@ -28,6 +28,7 @@ int partition(vector<int>& arr, int low, int high) {
 int randomPartition(vector<int>& arr, int low, int high) {
     srand(time(NULL));
     int random = low + rand() % (high - low);
+    
     swap(arr[random], arr[high]); // Swap random pivot to the end
     return partition(arr, low, high);
 }
