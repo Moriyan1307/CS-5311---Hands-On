@@ -45,6 +45,5 @@ int main() {
 
 // OUTPUT 
 // The 3rd smallest element is 5
-
 // This code is written by Aaryan Mori
 // Reference : https://www.geeksforgeeks.org/quick-sort/
