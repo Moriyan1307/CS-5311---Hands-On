@@ -90,5 +90,5 @@ int main() {
 
 
 
-
-// https://www.geeksforgeeks.org/how-do-dynamic-arrays-work/
+// This code is written by Aaryan Mori
+// References: https://www.geeksforgeeks.org/how-do-dynamic-arrays-work/
